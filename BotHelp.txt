@@ -1,0 +1,22 @@
+Aritra'sBot commands:
+
+1) "hi": 
+	Result: Greets Back!
+	aliases = ["Hello", "Hi", "hello", "greet", "Greet"]
+
+2) "bye": 
+	Result: Bids Farewell!
+	aliases = ["Bye", "Tata", "tata", "Good bye", "good bye", "see ya", "See ya"]
+
+3) "wikipedia <query>": 
+	Result: Searches Wikipedia with query and shows result!
+	aliases = ["wiki", "Wiki", "Wikipedia"]
+	Note:- Works best if query is kept within quotes
+
+4) "weather <place>": 
+	Result: Shows weather forcast for the mentioned place.
+	aliases = ["Weather", "forecast", "Forecast"]
+
+5) "Help":
+	Result: Shows Bot commands
+	aliases =["_help", "Commands", "commands", "Bot help", "bot help"]
